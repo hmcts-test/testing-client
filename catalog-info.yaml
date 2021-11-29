@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: platops-test
+  description: something
+  annotations:
+    github.com/project-slug: ''
+  tags:
+    - library
+    - platops-test
+spec:
+  type: library
+  lifecycle: experimental
+  owner: dts_platform_operations

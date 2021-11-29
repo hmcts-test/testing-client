@@ -1,0 +1,15 @@
+pom.xml
+src/main/java/org/openapitools/configuration/ApiKeyRequestInterceptor.java
+src/main/java/org/openapitools/configuration/ClientConfiguration.java
+src/main/java/uk/gov/hmcts/petstore/api/PetApi.java
+src/main/java/uk/gov/hmcts/petstore/api/PetApiClient.java
+src/main/java/uk/gov/hmcts/petstore/api/StoreApi.java
+src/main/java/uk/gov/hmcts/petstore/api/StoreApiClient.java
+src/main/java/uk/gov/hmcts/petstore/api/UserApi.java
+src/main/java/uk/gov/hmcts/petstore/api/UserApiClient.java
+src/main/java/uk/gov/hmcts/petstore/model/Category.java
+src/main/java/uk/gov/hmcts/petstore/model/ModelApiResponse.java
+src/main/java/uk/gov/hmcts/petstore/model/Order.java
+src/main/java/uk/gov/hmcts/petstore/model/Pet.java
+src/main/java/uk/gov/hmcts/petstore/model/Tag.java
+src/main/java/uk/gov/hmcts/petstore/model/User.java
