@@ -17,7 +17,7 @@ dependencies {
     implementation 'com.google.code.findbugs:jsr305:3.0.2'
     api 'org.springframework.cloud:spring-cloud-starter-openfeign:3.0.5'
     api 'org.springframework.cloud:spring-cloud-starter-oauth2:2.2.5.RELEASE'
-    api 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.13.0'
+    api 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.13.1'
     api 'org.openapitools:jackson-databind-nullable:0.2.1'
     api 'org.hibernate.validator:hibernate-validator:6.0.16.Final'
     testImplementation 'org.springframework.boot:spring-boot-starter-test:2.6.0'
