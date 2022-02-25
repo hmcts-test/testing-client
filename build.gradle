@@ -20,7 +20,7 @@ dependencies {
     api 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310:2.13.0'
     api 'org.openapitools:jackson-databind-nullable:0.2.1'
     api 'org.hibernate.validator:hibernate-validator:6.0.16.Final'
-    testImplementation 'org.springframework.boot:spring-boot-starter-test:2.6.0'
+    testImplementation 'org.springframework.boot:spring-boot-starter-test:2.6.4'
 }
 
 group = 'uk.gov.hmcts'
